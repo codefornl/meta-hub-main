@@ -11,9 +11,15 @@ Meta Hub is also a Marketplace for Code for NL community projects to find commun
 
 ### Community Member Profiles
 
+![Community Member Profile](https://github.com/codefornl/meta-hub-main/blob/master/metahub_member.png)
+
 ### Browse Community Members
 
+![Browse Community Members](https://github.com/codefornl/meta-hub-main/blob/master/metahub_member_browse.png)
+
 ### Community Members Search
+
+![Search Community Members](https://github.com/codefornl/meta-hub-main/blob/master/metahub_member_search.png)
 
 ### Community Project Profiles
 
@@ -26,6 +32,8 @@ Meta Hub is also a Marketplace for Code for NL community projects to find commun
 1. micro-application: we create micro-applications that are compattible
 2. open standards: we use open standards as much as possible
 3. user owned data: you may put your data files on github, or on your own website (and we will only cache it (temporarily) for optimization)
+
+![Code for NL Meta Hub file](https://github.com/codefornl/meta-hub-main/blob/master/metahub_c4nlfile.png)
 
 ## How we work
 We will be using the [Standard for Public Code](https://standard.publiccode.net/) in cobination with the [Shape Up Methodology](https://basecamp.com/shapeup).
