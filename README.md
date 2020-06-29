@@ -33,7 +33,7 @@ We will be using the [Standard for Public Code](https://standard.publiccode.net/
 
 ![Meta Hub Remote File Architecture](https://github.com/codefornl/meta-hub-main/blob/master/metahub_archi.png)
 
-Meta Hub Auto Harvester Code Base: [URL]
+Meta Hub Auto Harvester Code Base: https://github.com/codefornl/meta-hub-harvester (stub)
 
 Meta Hub Community Members API Code Base: [URL]
 
