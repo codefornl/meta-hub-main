@@ -25,7 +25,7 @@ The primary way to do this is to publish a file called codefornl.json in one of 
 
 ![Code for NL Meta Hub file](https://github.com/codefornl/meta-hub-main/blob/master/metahub_c4nlfile.png)
 
-Another way is to upload your jsonresume file to the Meta Hub DB at [URL].
+Another way is to upload your jsonresume file to the Meta Hub DB at [URL1], or to create a jsonresume at [URL2].
 
 ![Community Member Profile](https://github.com/codefornl/meta-hub-main/blob/master/metahub_member.png)
 
