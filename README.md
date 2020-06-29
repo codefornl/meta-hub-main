@@ -17,6 +17,8 @@ JSON Resume format: https://jsonresume.org/
 
 JSON Resume editor: [codebase url] (live: http://148.251.43.237:31664/)
 
+Jekyll personal website with resume json output: https://github.com/milovanderlinden/milovanderlinden.github.io (live: http://milo.dogodigi.net/resume.json)
+
 ## Design Principles
 
 1. micro-application: we create micro-applications that are compattible
@@ -44,6 +46,8 @@ Meta Hub Search Interface Code Base: [URL]
 Adding your community member profile to the meta hub database can be done in multiple ways, to enable self-ownership of your data.
 
 The primary way to do this is to publish a file called codefornl.json in one of your Github repositories (we suggest your personal github.io repository hosting your personal website). These files will be indexed automatically every 10 minutes. You need to add a field to this file called "resume", with the value being the URL to your [jsonresume formatted resume](https://jsonresume.org/).
+
+Example: https://github.com/milovanderlinden/milovanderlinden.github.io/blob/master/codefornl.yml
 
 ![Code for NL Meta Hub file](https://github.com/codefornl/meta-hub-main/blob/master/metahub_c4nlfile.png)
 
