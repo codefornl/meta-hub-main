@@ -21,6 +21,14 @@ We will be using the [Standard for Public Code](https://standard.publiccode.net/
 
 ![Meta Hub Remote File Architecture](https://github.com/codefornl/meta-hub-main/blob/master/metahub_archi.png)
 
+Meta Hub Auto Harvester Code Base: [URL]
+
+Meta Hub Community Members API Code Base: [URL]
+
+Meta Hub Community Projects API Code Base: [URL]
+
+Meta Hub Search Interface Code Base: [URL]
+
 ### Community Member Profiles
 
 Adding your community member profile to the meta hub database can be done in multiple ways, to enable self-ownership of your data.
