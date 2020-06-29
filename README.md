@@ -54,3 +54,13 @@ Another way is to upload your jsonresume file to the Meta Hub DB at [URL1], or t
 ### Browse Community Projects
 
 ### Community Projects Search
+
+## Inspiration
+
+Code for NL meta hub file inspired by: https://github.com/codefornl/publiccode-editor
+
+Interface design from: https://github.com/peterbartels/meta-hub-codeforall (live: https://5ec7cf860a489a00060ff14c--jovial-allen-eb49a9.netlify.app/#/)
+
+JSON Resume format: https://jsonresume.org/
+
+JSON Resume editor: [codebase url] (live: http://148.251.43.237:31664/)
