@@ -7,6 +7,16 @@ Meta Hub is a Marketplace for Code for NL community members to find community pr
 
 Meta Hub is also a Marketplace for Code for NL community project leads to find community members. We create tools for community members to create a profile, so they can be found.
 
+## Inspiration
+
+Code for NL meta hub file inspired by: https://github.com/codefornl/publiccode-editor
+
+Interface design from: https://github.com/peterbartels/meta-hub-codeforall (live: https://5ec7cf860a489a00060ff14c--jovial-allen-eb49a9.netlify.app/#/)
+
+JSON Resume format: https://jsonresume.org/
+
+JSON Resume editor: [codebase url] (live: http://148.251.43.237:31664/)
+
 ## Design Principles
 
 1. micro-application: we create micro-applications that are compattible
@@ -54,13 +64,3 @@ Another way is to upload your jsonresume file to the Meta Hub DB at [URL1], or t
 ### Browse Community Projects
 
 ### Community Projects Search
-
-## Inspiration
-
-Code for NL meta hub file inspired by: https://github.com/codefornl/publiccode-editor
-
-Interface design from: https://github.com/peterbartels/meta-hub-codeforall (live: https://5ec7cf860a489a00060ff14c--jovial-allen-eb49a9.netlify.app/#/)
-
-JSON Resume format: https://jsonresume.org/
-
-JSON Resume editor: [codebase url] (live: http://148.251.43.237:31664/)
