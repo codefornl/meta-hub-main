@@ -13,7 +13,11 @@ Meta Hub is also a Marketplace for Code for NL community projects to find commun
 2. open standards: we use open standards as much as possible
 3. user owned data: you may put your data files on github, or on your own website (and we will only cache it (temporarily) for optimization)
 
-## Subsystems
+## How we work
+
+We will be using the [Standard for Public Code](https://standard.publiccode.net/) in cobination with the [Shape Up Methodology](https://basecamp.com/shapeup).
+
+## Design and Architecture
 
 ![Meta Hub Remote File Architecture](https://github.com/codefornl/meta-hub-main/blob/master/metahub_archi.png)
 
@@ -42,6 +46,3 @@ Another way is to upload your jsonresume file to the Meta Hub DB at [URL1], or t
 ### Browse Community Projects
 
 ### Community Projects Search
-
-## How we work
-We will be using the [Standard for Public Code](https://standard.publiccode.net/) in cobination with the [Shape Up Methodology](https://basecamp.com/shapeup).
