@@ -3,9 +3,9 @@ Main repo for the Code for NL "Meta Hub" [Community Project](https://www.codefor
 
 ## The Idea
 
-Meta Hub is a Marketplace for Code for NL community members to find community projects. We create tools for community projects to create a profile, so they can be found.
+Meta Hub is a Marketplace for Code for NL community members to find community projects. We create tools for community project leads to create a profile, so they can be found.
 
-Meta Hub is also a Marketplace for Code for NL community projects to find community members. We create tools for community members to create a profile, so they can be found.
+Meta Hub is also a Marketplace for Code for NL community project leads to find community members. We create tools for community members to create a profile, so they can be found.
 
 ## Design Principles
 
