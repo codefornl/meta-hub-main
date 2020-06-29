@@ -9,6 +9,8 @@ Meta Hub is also a Marketplace for Code for NL community projects to find commun
 
 ## Subsystems
 
+![Meta Hub Remote File Architecture](https://github.com/codefornl/meta-hub-main/blob/master/metahub_archi.png)
+
 ### Community Member Profiles
 
 ![Community Member Profile](https://github.com/codefornl/meta-hub-main/blob/master/metahub_member.png)
