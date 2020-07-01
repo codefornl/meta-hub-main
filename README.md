@@ -45,7 +45,7 @@ Meta Hub Search Interface Code Base: [URL]
 
 Adding your community member profile to the meta hub database can be done in multiple ways, to enable self-ownership of your data.
 
-The primary way to do this is to publish a file called codefornl.json in one of your Github repositories (we suggest your personal github.io repository hosting your personal website). These files will be indexed automatically every 10 minutes. You need to add a field to this file called "resume", with the value being the URL to your [jsonresume formatted resume](https://jsonresume.org/).
+The primary way to do this is to publish a file called codefornl.yml in one of your Github repositories (we suggest your personal github.io repository hosting your personal website). These files will be indexed automatically every 10 minutes. You need to add a field to this file called "resume", with the value being the URL to your [jsonresume formatted resume](https://jsonresume.org/).
 
 Example: https://github.com/milovanderlinden/milovanderlinden.github.io/blob/master/codefornl.yml
 
